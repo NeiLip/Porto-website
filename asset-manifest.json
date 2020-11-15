@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Porto-website/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Porto-website/static/js/main.dd17adc1.chunk.js",
+    "main.js.map": "/Porto-website/static/js/main.dd17adc1.chunk.js.map",
+    "runtime-main.js": "/Porto-website/static/js/runtime-main.a65cd8fc.js",
+    "runtime-main.js.map": "/Porto-website/static/js/runtime-main.a65cd8fc.js.map",
+    "static/js/2.ef9b312c.chunk.js": "/Porto-website/static/js/2.ef9b312c.chunk.js",
+    "static/js/2.ef9b312c.chunk.js.map": "/Porto-website/static/js/2.ef9b312c.chunk.js.map",
+    "index.html": "/Porto-website/index.html",
+    "precache-manifest.183885afd6eb08bad8e60bd0a9c5393c.js": "/Porto-website/precache-manifest.183885afd6eb08bad8e60bd0a9c5393c.js",
+    "service-worker.js": "/Porto-website/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Porto-website/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ef9b312c.chunk.js.LICENSE.txt": "/Porto-website/static/js/2.ef9b312c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a65cd8fc.js",
+    "static/js/2.ef9b312c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.dd17adc1.chunk.js"
+  ]
+}
