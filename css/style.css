@@ -329,6 +329,14 @@ header .intro-text {
 #services .service-desc {
 	margin-bottom: 40px;
 }
+.hover-button .hover-button--on,
+.hover-button:hover .hover-button--off {
+  cursor: default;
+}
+
+.hover-button:hover .hover-button--on {
+  cursor: pointer;
+}
 /* Portfolio Section */
 #portfolio {
 	padding: 100px 0;
