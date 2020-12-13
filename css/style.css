@@ -337,6 +337,16 @@ header .intro-text {
 .hover-button:hover .hover-button--on {
   cursor: pointer;
 }
+.btn-services {
+	font-family: 'Raleway', sans-serif;
+	text-transform: lowercase;
+	color: #fff;
+	letter-spacing: 1px;
+	margin-top: 5px;
+	font-size: 14px;
+	font-weight: 700;
+	
+}
 /* Portfolio Section */
 #portfolio {
 	padding: 100px 0;
