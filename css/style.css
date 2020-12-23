@@ -72,17 +72,18 @@ hr {
 #menu.navbar-default {
 	background-color: #fff;
 	border-color: rgba(231, 231, 231, 0);
-	box-shadow: 0 0 10px rgba(0,0,0,0.15)
+	box-shadow: 0 0 10px rgba(0,0,0,0.15);
 }
 #menu a.navbar-brand {
 	background: url(../img/logo.png)   center center no-repeat;
-  	background-size: cover;
-  	background-size: 100% 100%;
-	position: fixed;
-  	background-position: left;
+  	background-size: 250px;
+  	position: absolute;
+  	visibility: visible;
+	transform: translate(-5%,-20%);
+  	
 	font-family: 'Raleway', sans-serif;
 	font-size: 10px;
-	width: 200px;
+	width: 250px;
 	color: #333;
 	text-transform: uppercase;
 }
@@ -108,7 +109,7 @@ hr {
 	transition: width 0.2s;
 }
 #menu.navbar-default .navbar-nav > li > a:hover:after {
-	width: 100%;
+	width: 80%;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	background-color: transparent;
@@ -202,13 +203,13 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: rgba(0,0,0,0);
 }
 .intro h1 {
-	background: url(../img/whitebg.png) center center no-repeat;
+	/*background: url(../img/whitebg.png) center center no-repeat;*/
 	background-size: contain;
   	background-size: 100% 100%;
-  	border: 1px solid #808080;
+  	/*border: 1px solid #808080;*/
 	max-width: 100%;
-	height: 200px;
-	object-fit: cover; 
+	height: 150px;
+	
 
 	font-family: 'Raleway', sans-serif;
 	color: #fff;
