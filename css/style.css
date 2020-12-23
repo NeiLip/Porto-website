@@ -464,6 +464,7 @@ header .intro-text {
 }
 #contact h2 {
 	color: #fff;
+	
 	margin-top: 10px;
 	margin-bottom: 15px;
 	padding-bottom: 15px;
@@ -475,10 +476,12 @@ header .intro-text {
 	height: 4px;
 	width: 60px;
 	bottom: 0;
-	left: 30px;
+	left: 50%;
+
 }
 #contact h3 {
 	color: #fff;
+
 	margin-top: 80px;
 	margin-bottom: 25px;
 	padding-bottom: 20px;
@@ -489,7 +492,8 @@ header .intro-text {
 }
 #contact .text-danger {
 	color: #cc0033;
-	text-align: left;
+	text-align: center;
+
 }
 #contact .btn-custom {
 	margin: 30px 0;
