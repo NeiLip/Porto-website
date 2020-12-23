@@ -73,29 +73,30 @@ hr {
 	background-color: #fff;
 	border-color: rgba(231, 231, 231, 0);
 	box-shadow: 0 0 10px rgba(0,0,0,0.15);
+	height: 15%;
 }
 #menu a.navbar-brand {
 	background: url(../img/logo.png)   center center no-repeat;
-  	background-size: 250px;
+  	background-size: 350px;
   	position: absolute;
   	visibility: visible;
-	transform: translate(-5%,-20%);
+	transform: translate(-5%,-10%);
   	
 	font-family: 'Raleway', sans-serif;
 	font-size: 10px;
-	width: 250px;
+	width: 350px;
 	color: #333;
 	text-transform: uppercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
-	color: #555;
-	font-size: 15px;
+	color: #162460;
+	font-size: 16px;
 	font-weight: 400;
-	padding: 10px 0px;
+	padding: 10px 5px;
 	border-radius: 0;
-	margin: 9px 20px 0 20px;
+	margin: 15px 20px 0 20px;
 }
 #menu.navbar-default .navbar-nav > li > a:after {
 	display: block;
@@ -162,7 +163,7 @@ hr {
 	text-transform: uppercase;
 	color: #fff;
 	background-color: #5ca9fb;
-	background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+	background-image: linear-gradient(to right, #449CF3 0%, #1E56A0 100%);
 	padding: 14px 34px;
 	letter-spacing: 1px;
 	margin: 0;
@@ -175,7 +176,7 @@ hr {
 .btn-custom:hover, .btn-custom:focus, .btn-custom.focus, .btn-custom:active, .btn-custom.active {
 	color: #fff;
 	background-image: none;
-	background-color: #6372ff;
+	background-color: #2D7AC6;
 }
 .btn:active, .btn.active {
 	background-image: none;
@@ -303,7 +304,7 @@ header .intro-text {
 /* Services Section */
 #services {
 	padding: 100px 0;
-	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+	background: linear-gradient(to right, #1E56A0 0%, #449CF3 100%);
 	color: #fff;
 }
 #services .service-desc {
@@ -467,7 +468,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
 	padding: 100px 0 60px 0;
-	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+	background: linear-gradient(to right, #1E56A0 0%, #449CF3 100%);
 	color: rgba(255,255,255,.75);
 }
 #contact .section-title {
