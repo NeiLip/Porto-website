@@ -61,7 +61,7 @@ hr {
 	text-align: center;
 	position: relative;
 	background: #1E7A46;
-	margin-bottom: 20px;
+	margin-bottom: 25px;
 	border: 0;
 }
 /* Navigation */
@@ -73,18 +73,18 @@ hr {
 	background-color: #fff;
 	border-color: rgba(231, 231, 231, 0);
 	box-shadow: 0 0 10px rgba(0,0,0,0.15);
-	height: 15%;
+	height: 14%;
 }
 #menu a.navbar-brand {
-	background: url(../img/logo.png)   center center no-repeat;
-  	background-size: 350px;
+	background: url(../img/logonobg.png)   center center no-repeat;
+  	background-size: 300px;
   	position: absolute;
   	visibility: visible;
-	transform: translate(-5%,-10%);
+	transform: translate(-5%,-15%);
   	
 	font-family: 'Raleway', sans-serif;
 	font-size: 10px;
-	width: 350px;
+	width: 300px;
 	color: #333;
 	text-transform: uppercase;
 }
