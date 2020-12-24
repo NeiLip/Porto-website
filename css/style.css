@@ -91,7 +91,7 @@ hr {
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
-	color: #162460;
+	
 	font-size: 16px;
 	font-weight: 400;
 	padding: 10px 5px;
@@ -300,6 +300,8 @@ header .intro-text {
 #about p {
 	line-height: 24px;
 	margin: 30px 0;
+	text-align: justify;
+    text-justify: inter-word;
 }
 /* Services Section */
 #services {
@@ -311,6 +313,8 @@ header .intro-text {
 	margin: 10px 10px 20px;
 }
 #services h2 {
+	font-family: 'Palatino', sans-serif;
+	font-weight: bold;
 	color: #fff;
 }
 #services .section-title h2::after {
@@ -459,11 +463,16 @@ header .intro-text {
 #team .thumbnail {
 	background: transparent;
 	border: 0;
-		
 }
 #team .thumbnail .caption {
 	padding: 10px 0 0 0;
 	color: #888;
+}
+#team .thumbnail .info {
+	padding: 10px 0 0 0;
+	color: #888;
+	 text-align: justify;
+  text-justify: inter-word;
 }
 /* Contact Section */
 #contact {
