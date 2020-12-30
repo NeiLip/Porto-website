@@ -15,16 +15,16 @@ h2 {
 	margin: 0 0 20px 0;
 	font-weight: 800;
 	font-size: 36px;
-	color: #333;
+	color: #163172;
 }
 h3 {
 	font-size: 20px;
 	font-weight: 600;
-	color: #333;
+	color: #163172;
 }
 h4 {
 	font-size: 18px;
-	color: #333;
+	color: #163172;
 	font-weight: 600;
 }
 h5 {
@@ -189,6 +189,20 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	outline-offset: none;
 }
 /* Header Section */
+.each-slide > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 350px;
+}
+
+.each-slide span {
+  padding: 20px;
+  font-size: 20px;
+  background: #efefef;
+  text-align: center;
+}
 .intro {
 	display: table;
 	width: 100%;
@@ -306,7 +320,7 @@ header .intro-text {
 /* Services Section */
 #services {
 	padding: 100px 0;
-	background: linear-gradient(to right, #1E56A0 0%, #449CF3 100%);
+	/*background: linear-gradient(to right, #1E56A0 0%, #449CF3 100%);*/
 	color: #fff;
 }
 #services .service-desc {
@@ -315,7 +329,7 @@ header .intro-text {
 #services h2 {
 	font-family: 'Palatino', sans-serif;
 	font-weight: bold;
-	color: #fff;
+	color: #163172;
 }
 #services .section-title h2::after {
 	position: absolute;
@@ -334,16 +348,16 @@ header .intro-text {
 	padding: 40px 0;
 	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 	border-radius: 50%;
-	color: #fff;
+	color: #163172;
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
 }
 #services h3 {
 	font-weight: 500;
 	padding: 5px 0;
-	color: #fff;
+	color: #163172;
 }
 #services p {
-	color: rgba(255,255,255,.75);
+	color: #163172;
 }
 #services .service-desc {
 	margin-bottom: 40px;
