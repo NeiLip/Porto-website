@@ -262,7 +262,7 @@ th {
 }
 @font-face {
   font-family: 'BelMt';
-  src: url(../fonts/BellMT.ttf) format('truetype');
+  src: url('../fonts/BellMT.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Glyphicons Halflings';

@@ -7,6 +7,7 @@ body, html {
 	width: 100% !important;
 	height: 100% !important;
 }
+
 h2, h3, h4 {
 	font-family: 'Raleway', sans-serif;
 }
@@ -140,6 +141,7 @@ hr {
 	margin-bottom: 70px;
 }
 .section-title h2 {
+	font-family: 'BelMt';
 	position: relative;
 	margin-top: 10px;
 	margin-bottom: 15px;
@@ -273,10 +275,12 @@ header .intro-text {
 	padding: 100px 0;
 }
 #about h3 {
+	
 	font-size: 22px;
 	margin: 0 0 20px 0;
 }
 #about h2 {
+	font-family: 'BelMt';
 	position: relative;
 	margin-bottom: 15px;
 	padding-bottom: 15px;
@@ -320,16 +324,16 @@ header .intro-text {
 /* Services Section */
 #services {
 	padding: 100px 0;
-	background: linear-gradient(to right, #163172 30%, #1E56A0 200%);
-	color: #fff;
+	/*background: linear-gradient(to right, #163172 30%, #1E56A0 200%);*/
+	color: #163172;
 }
 #services .service-desc {
 	margin: 10px 10px 20px;
 }
 #services h2 {
-	font-family: 'Palatino', sans-serif;
+	font-family: 'BelMt';
 	font-weight: bold;
-	color: #fff;
+	color: #163172;
 }
 #services .section-title h2::after {
 	position: absolute;
@@ -353,14 +357,22 @@ header .intro-text {
 	border-radius: 50%;
 	color: #fff;
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
+	border-radius: 100%;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000;
 }
 #services h3 {
 	font-weight: 500;
 	padding: 5px 0;
+	color: #163172;
+}
+#services h4 {
+	font-weight: 700;
 	color: #fff;
 }
 #services p {
-	color: #fff;
+	color: #163172;
 }
 #services .service-desc {
 	margin-bottom: 40px;
