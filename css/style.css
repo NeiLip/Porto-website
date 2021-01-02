@@ -421,6 +421,16 @@ header .intro-text {
 	opacity: 0;
 	transition: all 0.5s;
 }
+.hover-bg .hover-text-services {
+	position: absolute;
+	text-align: center;
+	margin: 0 auto;
+	color: #fff;
+	background: linear-gradient(to right, rgba(99,114,255,0.8) 0%, rgba(92,169,251,0.8) 100%);
+	padding: 30% 0 0 0;
+	opacity: 0;
+	transition: all 0.5s;
+}
 .hover-bg .hover-text>h4 {
 	opacity: 0;
 	color: #fff;
