@@ -295,8 +295,10 @@ header .intro-text {
 	left: 0;
 }
 #about .about-text li {
-	margin-bottom: 6px;
-	margin-left: 6px;
+	margin-bottom: 15px;
+	margin-left: 3px;
+	font-size: 16px;
+	font-weight: 400;
 	list-style: none;
 	padding: 0;
 }
@@ -305,7 +307,7 @@ header .intro-text {
 	font-family: 'FontAwesome';
 	color: #5ca9fb;
 	font-size: 11px;
-	font-weight: 300;
+	font-weight: 300px;
 	padding-right: 8px;
 }
 #about img {
@@ -381,7 +383,9 @@ header .intro-text {
 	color: #fff;
 }
 #services p {
+	font-family: 'Raleway', sans-serif;
 	color: #163172;
+	font-weight:normal;
 }
 #services .service-desc {
 	margin-bottom: 40px;
