@@ -217,6 +217,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-o-background-size: cover;
 }
 .intro .overlay {
+	padding-top: 37px;
 	background: rgba(0,0,0,0);
 }
 .intro h1 {
