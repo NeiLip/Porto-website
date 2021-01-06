@@ -349,6 +349,15 @@ header .intro-text {
 	margin-left: -30px;
 	left: 50%;
 }
+#services .sub-section-title {
+	position: relative;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: xx-large;
+	color: #163172;
+	
+}
 #services i.fa {
 	font-size: 42px;
 	width: 120px;
