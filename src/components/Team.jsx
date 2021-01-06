@@ -7,10 +7,7 @@ export class Team extends Component {
         <div className="container">
           <div className="col-md-8 col-md-offset-2 section-title">
             <h2>Meet the Team</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
-            </p>
+            
           </div>
           <div id="row">
             {this.props.data
@@ -22,6 +19,10 @@ export class Team extends Component {
                       <div className="caption">
                         <h4>{d.name}</h4>
                         <p>{d.job}</p>
+                      </div>
+                       <div className="info">
+                        <p>{d.about}</p>
+                        <p><a href={d.link}>{d.link}</a></p>
                       </div>
                     </div>
                   </div>

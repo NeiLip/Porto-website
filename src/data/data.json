@@ -1,42 +1,27 @@
 {
     "Header": {
 
-        "title": "Welcome to COMPANY",
+        "title": "Bolivar",
         "paragraph": "We have the BEST SLOGEN and BEST RESULTS"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Our vision is to locate real estate opportunities for our investors that will guarantee them a high yield and diversity to their investment's portfolio in a way that is tailored to the economic challenges of the modern world. Therefore, our emphasis is on developing city centers with high potential for price increases in the short and long term, which allows our investors to enjoy high benefits of the purchased apartments in parallel with the increase in the value of the property. ",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Up to 70% financing",
+            "Designed to the finest details"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Unique & historical building",
+            "Luxuries internal designed"
         ]
     },
     "Services": [{
-            "icon": "fa fa-building",
-            "name": "Rua da Aliança 89, Porto, Portugal",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-building",
-            "name": "Rua de Montebelo 43, Porto, Portugal",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-building",
-            "name": "R. do Sr. da Boa Morte 229, Porto, Portugal",
+            "icon": "fa fa-angle-double-down",
+            "iconback": "fa fa-angle-double-up",
+            "name": "Rua dos Caldeireiros 90-97, Porto, Portugal",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         }
-
-
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
@@ -71,26 +56,33 @@
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+            "name": "Moutassim G.",
+            "job": "CEO",
+            "about": "A previous managing partner in leading law firm in Israel and as an associate in international law firms , Moutassim was responsible for consulting and providing legal assistance for a large number of real estate projects, including consulting for corporations and boards of directors, establishment of trust mechanism, functioning as a trustee for private investors and handling complicated litigation cases. Moutassim has extensive international experience in the field of legal consulting for the world's leading real estate management funds.",
+            "link": ""
+        },
+        {
+            "img": "img/team/03.jpg",
+            "name": "",
+            "job": "",
+            "about": "",
+            "link": ""
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "name": "Fadi W.",
+            "job": "Architect",
+            "about": "Being an architect and interior designer for over 8 years have equipped me with immense experience and expertise in the art of turning spaces into places. Throughout my career, I have had the fortunate opportunity to work with a multitude of clients across different disciplines and industries, that have expanded my horizons in my craft. A client focused individual with a creative flair for turning existing designs into beautiful architectural marketing pieces, I excel in taking the clients requirements and turning them into stunning physical dreams.",
+            "link": "https://www.mobilecard.co.il/fadiwaked/"
         }
     ],
     "Contact": {
         "address": "321 Porto St, Porto, Portugal ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
+        "phone": "+972 54 260 6618",
+        "phone2": "+972 50 834 5072",
+        "email": "info@bolivarinvest.com",
+        "facebook": "https://www.facebook.com/Bolivar-Invest-102012708511286",
+        "instagram": "https://www.instagram.com/bolivar_investments/",
         "youtube": "youtube.com"
     },
     "Features": [{

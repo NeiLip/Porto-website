@@ -22,9 +22,11 @@ export class Gallery extends Component {
                       href="img/portfolio/01-large.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       <div className="hover-text">
-                        <h4>Rua da Aliança 89<br/>Porto</h4>
+                       
                       </div>
                       <img
                         src="img/portfolio/01-small.jpg"
@@ -43,9 +45,11 @@ export class Gallery extends Component {
                       href="img/portfolio/02-large.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       <div className="hover-text">
-                         <h4>Rua da Aliança 89<br/>Porto</h4>
+                        
                       </div>
                       <img
                         src="img/portfolio/02-small.jpg"
@@ -64,9 +68,11 @@ export class Gallery extends Component {
                       href="img/portfolio/03-large.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       <div className="hover-text">
-                         <h4>Rua da Aliança 89<br/>Porto</h4>
+                         
                       </div>
                       <img
                         src="img/portfolio/03-small.jpg"
@@ -85,9 +91,11 @@ export class Gallery extends Component {
                       href="img/portfolio/04-large.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       <div className="hover-text">
-                         <h4>Rua de Montebelo 43<br/>Porto</h4>
+                         
                       </div>
                       <img
                         src="img/portfolio/04-small.jpg"
@@ -106,9 +114,11 @@ export class Gallery extends Component {
                       href="img/portfolio/05-large.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       <div className="hover-text">
-                        <h4>Rua de Montebelo 43<br/>Porto</h4>
+                        
                       </div>
                       <img
                         src="img/portfolio/05-small.jpg"
@@ -127,9 +137,11 @@ export class Gallery extends Component {
                       href="img/portfolio/06-large.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       <div className="hover-text">
-                        <h4>Rua de Montebelo 43<br/>Porto</h4>
+                        
                       </div>
                       <img
                         src="img/portfolio/06-small.jpg"
@@ -148,9 +160,11 @@ export class Gallery extends Component {
                       href="img/portfolio/07-large.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       <div className="hover-text">
-                        <h4>R. do Sr. da Boa Morte 229<br/>Porto</h4>
+                        
                       </div>
                       <img
                         src="img/portfolio/07-small.jpg"
@@ -169,9 +183,11 @@ export class Gallery extends Component {
                       href="img/portfolio/08-large.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       <div className="hover-text">
-                        <h4>R. do Sr. da Boa Morte 229<br/>Porto</h4>
+                        
                       </div>
                       <img
                         src="img/portfolio/08-small.jpg"
@@ -190,9 +206,11 @@ export class Gallery extends Component {
                       href="img/portfolio/09-large.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       <div className="hover-text">
-                        <h4>R. do Sr. da Boa Morte 229<br/>Porto</h4>
+                        
                       </div>
                       <img
                         src="img/portfolio/09-small.jpg"
