@@ -333,6 +333,12 @@ header .intro-text {
 #services .service-desc {
 	margin: 0px 10px 20px;
 }
+#services .donwload-link {
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: #163172;	
+}
 #services h2 {
 	font-family: 'BelMt';
 	font-weight: bold;
