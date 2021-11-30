@@ -6,7 +6,7 @@ export class Gallery extends Component {
       <div id="portfolio" className="text-center">
         <div className="container">
           <div className="section-title">
-            <h2>Gallery</h2>
+            <h2>Discover Porto</h2>
         {/*    <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
               dapibus leonec.
@@ -65,7 +65,7 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/03-large.jpg"
+                      href="img/portfolio/06-large.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                       target="_blank"
@@ -75,7 +75,7 @@ export class Gallery extends Component {
                          
                       </div>
                       <img
-                        src="img/portfolio/03-small.jpg"
+                        src="img/portfolio/06-small.jpg"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
@@ -83,7 +83,7 @@ export class Gallery extends Component {
                   </div>
                 </div>
               </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
+             {/* <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
                     {" "}
@@ -151,8 +151,8 @@ export class Gallery extends Component {
                     </a>{" "}
                   </div>
                 </div>
-              </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
+              </div>*/}
+              {/*<div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
                     {" "}
@@ -174,8 +174,8 @@ export class Gallery extends Component {
                     </a>{" "}
                   </div>
                 </div>
-              </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
+              </div>*/}
+              {/*<div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
                     {" "}
@@ -197,8 +197,8 @@ export class Gallery extends Component {
                     </a>{" "}
                   </div>
                 </div>
-              </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
+              </div>*/}
+              {/*<div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
                     {" "}
@@ -220,7 +220,7 @@ export class Gallery extends Component {
                     </a>{" "}
                   </div>
                 </div>
-              </div>
+              </div>*/}
             </div>
           </div>
         </div>

@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import JsonData from '../data/data.json';
 
 export class Contact extends Component {
   render() {
@@ -65,7 +66,7 @@ export class Contact extends Component {
         <div id="footer">
           <div className="container text-center">
             <p>
-             All contents ©2020 Bolivar. All rights reserved.<br/>
+             All contents ©2022 Bolivar. All rights reserved.<br/>
              All pictures shown are for illustration purpose only.
             </p>
           </div>
